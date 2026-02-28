@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Teknofest Project**
 - 🛠️ Learning **YOLO**
-- 💻 Building a professional **Mini-Projects**
+- 💻 Building **Mini-Projects**
 - 📫 How to reach me **0fthshn0@gmail.com**
 
 
