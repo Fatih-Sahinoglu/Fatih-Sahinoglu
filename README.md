@@ -12,9 +12,9 @@
 
 <h3 align="left">&nbsp; A passionate developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Teknofest Project**
-- 🛠️ Learning **YOLO**
-- 💻 Building **Mini-Projects**
+- 🔭 I’m currently developing **2D pixel-art games in Unity** and **GUI applications with Qt/C++**
+- 🛠️ Learning **Computer Vision & Object Detection (YOLO)**
+- 💻 Crafting **clean, modular mini-projects**
 - 📫 How to reach me **0fthshn0@gmail.com**
 
 
